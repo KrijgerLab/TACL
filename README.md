@@ -1,4 +1,5 @@
 # TArgeted Cohesin Loader (TACL)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15777998.svg)](https://doi.org/10.5281/zenodo.15777998)
 
 This GitHub page contains scripts described in Han et al. Nature Genetics 2025.
 
